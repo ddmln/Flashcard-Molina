@@ -15,3 +15,9 @@ criaCartao(
     'Qual eram os nomes das bombas jogadas em Hiroshima e Nagasaki?',
     'Little boy e Fat man'
 )
+
+criaCartao(
+    'Historia',
+    'Qual a ordem de rendiçao dos membros do eixo?',
+    'Italia, Alemanha e Japao)'
+)
